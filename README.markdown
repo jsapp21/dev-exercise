@@ -17,7 +17,7 @@ free to build the app using either the new ECMAScript 6 or the older ECMAScript 
 
 Please provide the following functionality:
 
- * Required: Fetch quotes from the source [quotes.json](https://gist.githubusercontent.com/anonymous/8f61a8733ed7fa41c4ea/raw/1e90fd2741bb6310582e3822f59927eb535f6c73/quotes.json) and display the available information in a list-like structure (table/list)
+ * Required: Fetch quotes from the source [quotes.json](https://gist.githubusercontent.com/benchprep/dffc3bffa9704626aa8832a3b4de5b27/raw/quotes.json) and display the available information in a list-like structure (table/list)
  * Required: Provide client-side pagination (up to 15 quotes per page)
  * Required: Provide a way to filter between game and movie quotes
  * Required: Provide a client-side search that filters by the quote text
