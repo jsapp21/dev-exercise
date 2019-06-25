@@ -51,7 +51,7 @@ Your implementation should satisfy the following use cases and Blackjack rules:
 
 Please use your discretion in fixing/adding tests. You are free to use/convert to any testing framework you want.
 
-**Optional:**
+**Optional for junior submisions, required for mid and senior level submissions:**
 
  * Simulate a random round of the game (you don't have to write educated player decision logic - it could be just guesses)
 
