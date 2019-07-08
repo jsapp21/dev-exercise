@@ -32,9 +32,9 @@ test framework.)
 
 ### Simplified Blackjack
 
-`blackjack.rb` contains initial work on a Blackjack simulation.
+`blackjack.rb` contains initial work on a Blackjack game.
 
-Your implementation should complete the initial work on the simulation and satisfy the following use cases and Blackjack rules:
+Your implementation should complete the initial work on the game and satisfy the following use cases and Blackjack rules:
 
  * As a Player I can get a hand with two cards in it
  * As a Dealer I can get a hand with two cards in it
