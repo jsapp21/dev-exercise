@@ -1,6 +1,6 @@
-Please complete all of the following exercises.  When you are finished, zip up the exercises, upload the zip file (e.g. to Google Drive), and provide a link to the file.  Incomplete submissions will not be reviewed.  Do not include your `node_modules` directory.
+Please complete all of the following exercises.  When you are finished, zip up the exercises, upload the zip file (e.g. to Google Drive), and provide a link to the file.  Incomplete submissions will not be reviewed.
 
-If you have any questions, feel free to email your hiring facilitator.
+If you have any questions, please email your hiring facilitator.
 
 ## JavaScript
 
