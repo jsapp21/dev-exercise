@@ -30,10 +30,10 @@ Implement the find method to the WordFinder class.
 
 The find method accepts a string of lower case letters. Find should return an array of all the words in dictionary.json that can be made by rearranging these letters. Feel free to add whatever you need to make the class work accurately and efficiently.
 
-To the run the provided tests:
+To run the provided tests:
 
 ```
 ruby word_finder_test.rb
 ```
 
-Feel free to add any tests you wish or to use a different test libary like rspec.
+Feel free to add any tests you wish or to use a different test library like rspec.
