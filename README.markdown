@@ -1,4 +1,5 @@
-Please complete all of the following exercises.  When you are finished, zip up the exercises, upload the zip file (e.g. to Google Drive), and provide a link to the file.  Incomplete submissions will not be reviewed.
+Please complete all of the following exercises.  In the email from BenchPrep's recruiting team that directed you to this Github exercise, there is a link which you should use to upload your completed project.
+Please do not include any personal identifying information (PII) or the `.git` folder.  Incomplete submissions will not be reviewed.
 
 If you have any questions, please email your hiring facilitator.
 
@@ -6,10 +7,15 @@ If you have any questions, please email your hiring facilitator.
 
 ### Simple Vue.js List
 
-For this exercise, you will need to build a simple Vue.js app to list the
-given quotes. Please do not use any libraries or plugins to do this other
-than the core [Vue.js](https://vuejs.org/) and, optionally, a library to fetch
-the quotes.
+For this exercise, you will need to update included bootstrapped Vue.js application with the acceptance criteria listed below.
+Please do not use any libraries or plugins to do this other
+than the included core [Vue.js](https://vuejs.org) and, optionally, a library to fetch
+the quotes. **The provided bootstrapped project should be sufficient to complete the exercise.**
+
+Alternatively, if you wish to complete the exercise using another framework such as
+[React](https://reactjs.org) or [Angular](https://angular.io) you are free to do so.
+You must however complete the initial project setup yourself, provide instructions on running
+the exercise and complete the same requirements.
 
 You can assume that you only need to support modern web browsers, so feel
 free to build the app using either the new ECMAScript 6 or the older ECMAScript 5
@@ -32,8 +38,8 @@ The find method accepts a string of lower case letters. Find should return an ar
 
 To run the provided tests:
 
-```
+```shell
 ruby word_finder_test.rb
 ```
 
-Feel free to add any tests you wish or to use a different test library like rspec.
+Feel free to add any tests you wish or to use a different test library like [RSpec](https://rspec.info).
