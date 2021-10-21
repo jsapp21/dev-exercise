@@ -1,5 +1,5 @@
 Please complete all of the following exercises.  In the email from BenchPrep's recruiting team that directed you to this Github exercise, there is a link which you should use to upload your completed project.
-Please do not include any personal identifying information (PII) or the `.git` folder.  Incomplete submissions will not be reviewed.
+Please do not include any personal identifying information (PII), the `.git` folder, or any package folders (`node_modules`).  Incomplete submissions will not be reviewed.
 
 If you have any questions, please email your hiring facilitator.
 
