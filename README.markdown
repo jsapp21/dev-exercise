@@ -5,7 +5,10 @@ Once finished, please run `./package-submission.sh`. This:
 - packages your solution into a `.tar.gz` file named `dev-exercise-submission.tar.gz`
 - excludes any unnecessary folders and files (`node_modules`, `dictionary.json`, `.git`)
 
-In the email from BenchPrep's recruiting team that directed you to this Github exercise, there is a link which you should use to upload `dev-exercise-submission.tar.gz`.
+Or, if you are on a non-Unix/MacOS system, please add your solutions to a zip
+file, excluding `node_modules` and `.git` if applicable.
+
+In the email from BenchPrep's recruiting team that directed you to this Github exercise, there is a link which you should use to upload your archive.
 
 Please do not include any personal identifying information (PII). Incomplete submissions will not be reviewed.
 
