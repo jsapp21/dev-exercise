@@ -1,5 +1,16 @@
-Please complete all of the following exercises.  In the email from BenchPrep's recruiting team that directed you to this Github exercise, there is a link which you should use to upload your completed project.
-Please do not include any personal identifying information (PII), the `.git` folder, or any package folders (`node_modules`).  Incomplete submissions will not be reviewed.
+Please complete all of the following exercises.
+
+Once finished, please run `./package-submission.sh`. This:
+
+- packages your solution into a `.tar.gz` file named `dev-exercise-submission.tar.gz`
+- excludes any unnecessary folders and files (`node_modules`, `dictionary.json`, `.git`)
+
+Or, if you are on a non-Unix/MacOS system, please add your solutions to a zip
+file, excluding `node_modules` and `.git` if applicable.
+
+In the email from BenchPrep's recruiting team that directed you to this Github exercise, there is a link which you should use to upload your archive.
+
+Please do not include any personal identifying information (PII). Incomplete submissions will not be reviewed.
 
 If you have any questions, please email your hiring facilitator.
 
@@ -23,10 +34,10 @@ free to build the app using either the new ECMAScript 6 or the older ECMAScript 
 
 Please provide the following functionality:
 
- * Required: Fetch quotes from the source [quotes.json](https://gist.githubusercontent.com/benchprep/dffc3bffa9704626aa8832a3b4de5b27/raw/quotes.json) and display the available information in a list-like structure (table/list)
- * Required: Provide client-side pagination (up to 15 quotes per page)
- * Required: Provide a way to filter between game and movie quotes
- * Required: Provide a client-side search that filters by the quote text
+- Required: Fetch quotes from the source [quotes.json](https://gist.githubusercontent.com/benchprep/dffc3bffa9704626aa8832a3b4de5b27/raw/quotes.json) and display the available information in a list-like structure (table/list)
+- Required: Provide client-side pagination (up to 15 quotes per page)
+- Required: Provide a way to filter between game and movie quotes
+- Required: Provide a client-side search that filters by the quote text
 
 ## Ruby
 
